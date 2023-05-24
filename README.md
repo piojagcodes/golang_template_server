@@ -17,5 +17,5 @@ To run this application, make sure you have the following prerequisites installe
 
 2. Change into the project directory:
 
-   '''shell
+   ```shell
    cd golang_template_server
