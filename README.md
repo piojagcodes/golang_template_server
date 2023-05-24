@@ -28,5 +28,6 @@ To run this application, make sure you have the following prerequisites installe
 5. To gracefully shut down the server, use one of the following methods:
 ### Methods
    Press Ctrl+C in the terminal where the server is running.
+###
    The server will attempt to complete ongoing requests and then shut down.
    
