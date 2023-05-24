@@ -22,3 +22,11 @@ To run this application, make sure you have the following prerequisites installe
 3. Build the application:
    ```shell
    go build
+4. Run the application by executing the generated binary:
+   ```shell
+   ./go-http-server
+5. To gracefully shut down the server, use one of the following methods:
+   Press Ctrl+C in the terminal where the server is running.
+   Send an OS interrupt signal to the server process.
+The server will attempt to complete ongoing requests and then shut down.
+   
