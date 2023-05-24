@@ -26,7 +26,7 @@ To run this application, make sure you have the following prerequisites installe
    ```shell
    ./go-http-server
 5. To gracefully shut down the server, use one of the following methods:
-# Methods
+### Methods
    Press Ctrl+C in the terminal where the server is running.
    Send an OS interrupt signal to the server process.
 The server will attempt to complete ongoing requests and then shut down.
