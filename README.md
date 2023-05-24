@@ -18,8 +18,8 @@ To run this application, make sure you have the following prerequisites installe
 2. Change into the project directory: 
    '''shell
    cd golang_template_server
-   '''
+   
 3. Build the application:
    '''shell
    go build
-   '''
+   
