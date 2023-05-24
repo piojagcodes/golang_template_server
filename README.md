@@ -16,10 +16,12 @@ To run this application, make sure you have the following prerequisites installe
    git clone https://github.com/piojagcodes/golang_template_server.git
    
 2. Change into the project directory: 
+
    '''shell
    cd golang_template_server
    
 3. Build the application:
+
    '''shell
    go build
    
